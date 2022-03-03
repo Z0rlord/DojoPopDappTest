@@ -5,11 +5,11 @@ const config = {
   fundGoal: 15000,
   images: [
     { src: "https://fdqdhxiblr47fi4gl5zhvv73rpehjwneqy6jhd65nemfcvlm.arweave.net/KOAz3QFcefKjhl9yetf7-i8h02aSGPJOP3WkYUV_Vsw" },
-    { src: "https://picsum.photos/701" },
-    { src: "https://picsum.photos/702" },
-    { src: "https://picsum.photos/703" },
-    { src: "https://picsum.photos/704" },
-    { src: "https://picsum.photos/705" }
+    { src: "https://ekkqnsqzon6oqr2es7izdlq25mzmmftilqgxto42sub4jja.arweave.net/IpUGyhlzf_OhHRJfRk-a4a_6zLGFm_hcDXm7mpUDxKQ" },
+    { src: "https://nu2idpoc2uh3usdmdm5adcabxofzmzgrkzoe6pklastuelznom.arweave.net/bTSBv_cLVD7pIbBs6AYgBu4uWZNFWXE89SwSnQi8tc0" },
+    { src: "https://w42snpw4pkkcsmtaykj5otfri6xqty3by3hqv54q7bya7ltwreya.arweave.net/tzUmvtx6lCkyYMKT10yxR68J42HGzwr3kPhwD652iTA" },
+    { src: "https://25gr5vkfnqk4q6nbrvdtvygp3fbfgdxqiizspfxnq2ld5jev.arweave.net/100e1UVsFch-5oY-1HOuDP2UJTDvBCMyeW7YaWPqSVY" },
+    { src: "https://ilnaqdldgksgupaqhavxsum32akdtxqw6hm3hrwc2ccnwjqf.arweave.net/QtoIDWMypGo8EDg_reVGb0BQ53hb_x2bPGwtCE2yYF8" }
   ],
   socials: {
     website: "https://dojopop.net",
@@ -23,19 +23,20 @@ const config = {
   about: (
     <div>
       <p>
-      Dojopop.net is a digital dojo layered over your real world practice that respects and protects lineage, privacy, and authenticity. I don't want to say meta, but it's the meta dojo.
+      Dojopop.net is the digital dojo layered over your real world practice that respects and protects lineage, privacy, and authenticity. I don't want to say meta, but it's the meta dojo.
 
 Building Dapp for the tens of millions strong martial arts and community to track practice, achievements, seminar and community participation and awarding challenge coin NFTs. In addition hodlrs will be able to level up gamefi avatar NFTs through their real world practice and share them with proxies.
       </p>
       <ul>
-        <li>Praesent varius laoreet tristique.</li>
-        <li>Donec nisl magna, elementum et pharetra et, iaculis vel massa. </li>
-        <li>Vivamus eu porta purus. </li>
+        <li>Proof of Practice and Rewards.</li>
+        <li>Preserving Wisdom. </li>
+        <li>Global Leaderboard. </li>
+        <li>NFT Challenge Coins. </li>
       </ul>
     </div>
   ),
   faqs: [
-    { question: "Question 1", answer: "Answer 1" },
+    { question: "Who can join?", answer: "Anyone!" },
     { question: "Question 2", answer: "Answer 2" },
     { question: "Question 3", answer: "Answer 3" }
   ],
