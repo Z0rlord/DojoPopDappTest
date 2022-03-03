@@ -1,10 +1,10 @@
 const config = {
-  title: "Plagiarism Registry DAO",
-  description: "Fighting plagiarism with a searchable, creator-owned world wide registry. Get rewarded for your work.",
-  companyName: "Koii Network Creator Studio",
-  fundGoal: 1000,
+  title: "DojoPop - Proof of Practice for Martial Artists",
+  description: "The digital dojo layered over your real world practice that respects and protects lineage, privacy, and authenticity. Get rewarded and get on the Global Leaderboard.",
+  companyName: "DojoPop",
+  fundGoal: 15000,
   images: [
-    { src: "https://picsum.photos/700" },
+    { src: "https://fdqdhxiblr47fi4gl5zhvv73rpehjwneqy6jhd65nemfcvlm.arweave.net/KOAz3QFcefKjhl9yetf7-i8h02aSGPJOP3WkYUV_Vsw" },
     { src: "https://picsum.photos/701" },
     { src: "https://picsum.photos/702" },
     { src: "https://picsum.photos/703" },
@@ -12,19 +12,20 @@ const config = {
     { src: "https://picsum.photos/705" }
   ],
   socials: {
-    website: "https://koii.network",
-    twitter: "https://twitter.com/KoiiNetwork",
-    discord: "https://discord.com/invite/koii",
+    website: "https://dojopop.net",
+    twitter: "https://twitter.com/dojopop47",
+    discord: "https://discord.gg/bahuGP9U4j",
     facebook: null,
-    github: "https://github.com/koii-network"
+    github: "https://github.com/Z0rlord/dojopop.net"
   },
   paymentType: "ar",
-  fundAddress: "_JHZaUrLyOVSf_t87GBASHXziurNqXmxJ0VgYg-rggM",
+  fundAddress: "cV9ndULlKxSEwbzs_71I4iRF6LgrrAWQg97tonjKcPs",
   about: (
     <div>
       <p>
-        Mauris euismod pellentesque tincidunt. Aliquam commodo molestie est tristique aliquam. Nullam lorem elit, tristique mattis lorem vestibulum, malesuada congue sapien. Cras in elit nec tortor
-        consectetur viverra. Sed pharetra facilisis sollicitudin. Sed at aliquam magna, aliquet aliquet urna. Sed semper eget felis eu tristique.
+      Dojopop.net is a digital dojo layered over your real world practice that respects and protects lineage, privacy, and authenticity. I don't want to say meta, but it's the meta dojo.
+
+Building Dapp for the tens of millions strong martial arts and community to track practice, achievements, seminar and community participation and awarding challenge coin NFTs. In addition hodlrs will be able to level up gamefi avatar NFTs through their real world practice and share them with proxies.
       </p>
       <ul>
         <li>Praesent varius laoreet tristique.</li>

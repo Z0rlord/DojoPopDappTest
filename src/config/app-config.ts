@@ -6,11 +6,11 @@ const config: Record<string, any> = {
   // To change the logo, Head to src/assets/logo.png and the replace image with yours.
   lang: "en", // language of your website
   locale: "en_US", // locale of your website
-  title: "Create Koii Fundraise — Your Koii Fundraiser DApp",
-  description: "Create Koii Fundraise",
+  title: "DojoPop - Proof of Practice for martial artists",
+  description: "DojoPop description",
   canonical: "http://koii-x.vercel.app/", // Your production website link
-  twitterHandle: "@KoiiNetwork", // Twitter username
-  companyName: "Koii"
+  twitterHandle: "@DojoPop47", // Twitter username
+  companyName: "DojoPop"
 };
 
 export default config;

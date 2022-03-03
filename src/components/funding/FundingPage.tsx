@@ -39,6 +39,7 @@ export function FundingPage() {
               <Flex order={{ base: "1", lg: "2" }} flexDir="column" justify="flex-start" pt={{ base: "0", lg: "8" }} minW="0">
                 <Text as="h2" fontSize="32px" fontWeight="600" noOfLines={2} mb="2" lineHeight="normal">
                   {config?.title}
+                  Get rewarded for your practice.The digital dojo layered over your real world practice that respects and protects lineage, privacy, and authenticity.
                 </Text>
                 <Text noOfLines={2} lineHeight="normal">
                   {config?.description}
