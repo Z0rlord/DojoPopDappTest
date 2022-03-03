@@ -36,7 +36,7 @@ Building Dapp for the tens of millions strong martial arts and community to trac
     </div>
   ),
   faqs: [
-    { question: "Who can join?", answer: "Anyone!" },
+    { question: "Is this only for dojo?", answer: "No, anyone can join!" },
     { question: "Question 2", answer: "Answer 2" },
     { question: "Question 3", answer: "Answer 3" }
   ],

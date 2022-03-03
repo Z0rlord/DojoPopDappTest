@@ -8,7 +8,7 @@ const config: Record<string, any> = {
   locale: "en_US", // locale of your website
   title: "DojoPop - Proof of Practice for martial artists",
   description: "DojoPop description",
-  canonical: "http://koii-x.vercel.app/", // Your production website link
+  canonical: "http://dojopop.net/", // Your production website link
   twitterHandle: "@DojoPop47", // Twitter username
   companyName: "DojoPop"
 };

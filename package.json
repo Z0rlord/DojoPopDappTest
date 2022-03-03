@@ -1,9 +1,9 @@
 {
-  "name": "koii-fundraiser",
+  "name": "dojopop",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "http://.",
   "private": true,
-  "license": "",
+  "license": "ISC",
   "dependencies": {
     "@_koi/port": "^0.3.10-beta",
     "@_koi/sdk": "^2.4.11",
@@ -111,5 +111,16 @@
     "@types/react-test-renderer": "^17.0.1",
     "jest": "^27.1.0",
     "webpack": "^5.51.1"
+  },
+  "description": "Dojo Proof of Practice - The Digital Dojo Passport",
+  "main": ".prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z0rlord/crowdfunding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Z0rlord/crowdfunding/issues"
   }
 }
